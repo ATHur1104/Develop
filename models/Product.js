@@ -21,7 +21,7 @@ Product.init(
     autoIncrement: true,
   },
   // product_name
-  name: {
+  product_name: {
     // String.
     type: DataTypes.STRING,
     // Doesn't allow null values.

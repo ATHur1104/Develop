@@ -18,7 +18,7 @@ Tag.init(
     autoIncrement: true
   },
   // tag_name
-  name: {
+  tag_name: {
     // String.
     type: DataTypes.STRING,
   }
